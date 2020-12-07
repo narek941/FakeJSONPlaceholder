@@ -4,7 +4,7 @@
             "id": 1,
             "title": "Classic Bracelet Mamba",
             "price": "36",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fne-np.facebook.com%2FIMG-International-Marketing-Group-Cebu-City-187269647962180%2Freviews%2F%3Freferrer%3Dpage_recommendations_see_all&psig=AOvVaw2Mr34PgmOgPvZCEvS9XzZU&ust=1607431300235000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC816_yu-0CFQAAAAAdAAAAABAD",
+            "img": "product_1",
             "sex": "women",
             "sale": "10"
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "title": "Classic Bracelet Mamba",
             "price": "36",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fne-np.facebook.com%2FIMG-International-Marketing-Group-Cebu-City-187269647962180%2Freviews%2F%3Freferrer%3Dpage_recommendations_see_all&psig=AOvVaw2Mr34PgmOgPvZCEvS9XzZU&ust=1607431300235000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC816_yu-0CFQAAAAAdAAAAABAD",
+            "img": "product_2",
             "sex": "women",
             "sale": "10"
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "title": "Classic Bracelet Mamba",
             "price": "36",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fne-np.facebook.com%2FIMG-International-Marketing-Group-Cebu-City-187269647962180%2Freviews%2F%3Freferrer%3Dpage_recommendations_see_all&psig=AOvVaw2Mr34PgmOgPvZCEvS9XzZU&ust=1607431300235000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC816_yu-0CFQAAAAAdAAAAABAD",
+            "img": "product_3",
             "sex": "women",
             "sale": "10"
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "title": "Classic Bracelet Mamba",
             "price": "36",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fne-np.facebook.com%2FIMG-International-Marketing-Group-Cebu-City-187269647962180%2Freviews%2F%3Freferrer%3Dpage_recommendations_see_all&psig=AOvVaw2Mr34PgmOgPvZCEvS9XzZU&ust=1607431300235000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC816_yu-0CFQAAAAAdAAAAABAD",
+            "img": "product_4",
             "sex": "women",
             "sale": "10"
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "title": "Classic Bracelet Mamba",
             "price": "36",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fne-np.facebook.com%2FIMG-International-Marketing-Group-Cebu-City-187269647962180%2Freviews%2F%3Freferrer%3Dpage_recommendations_see_all&psig=AOvVaw2Mr34PgmOgPvZCEvS9XzZU&ust=1607431300235000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC816_yu-0CFQAAAAAdAAAAABAD",
+            "img": "product_5",
             "sex": "women",
             "sale": "10"
         },
@@ -44,15 +44,7 @@
             "id": 6,
             "title": "Classic Bracelet Mamba",
             "price": "36",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fne-np.facebook.com%2FIMG-International-Marketing-Group-Cebu-City-187269647962180%2Freviews%2F%3Freferrer%3Dpage_recommendations_see_all&psig=AOvVaw2Mr34PgmOgPvZCEvS9XzZU&ust=1607431300235000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC816_yu-0CFQAAAAAdAAAAABAD",
-            "sex": "women",
-            "sale": "10"
-        },
-        {
-            "id": 7,
-            "title": "Classic Bracelet Mamba",
-            "price": "36",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fne-np.facebook.com%2FIMG-International-Marketing-Group-Cebu-City-187269647962180%2Freviews%2F%3Freferrer%3Dpage_recommendations_see_all&psig=AOvVaw2Mr34PgmOgPvZCEvS9XzZU&ust=1607431300235000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC816_yu-0CFQAAAAAdAAAAABAD",
+            "img": "product_6",
             "sex": "women",
             "sale": "10"
         }
