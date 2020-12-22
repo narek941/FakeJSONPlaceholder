@@ -52,7 +52,7 @@
             "id": 7,
             "title": "Classic Bracelet Mamba",
             "price": "36",
-            "img": "product_1",
+            "img": "https://i.ibb.co/RhPw5dq/product-1.png",
             "sex": "women",
             "sale": "10"
         },
@@ -60,7 +60,7 @@
             "id": 8,
             "title": "Bracelet Temptation gray",
             "price": "32",
-            "img": "product_2",
+            "img": "https://i.ibb.co/yWfxz7d/product-2.png",
             "sex": "women",
             "sale": "10"
         },
@@ -68,7 +68,7 @@
             "id": 9,
             "title": "Bracelet Temptation gray",
             "price": "30",
-            "img": "product_3",
+            "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
             "sex": "women",
             "sale": "10"
         },
@@ -76,7 +76,7 @@
             "id": 10,
             "title": "Salmon leather bracelet",
             "price": "30",
-            "img": "product_4",
+            "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
             "sex": "women",
             "sale": "10"
         },
@@ -84,7 +84,7 @@
             "id": 11,
             "title": "Bracelet Talisman",
             "price": "30",
-            "img": "product_5",
+            "img": "https://i.ibb.co/THh05X6/product-5.png",
             "sex": "women",
             "sale": "10"
         },
@@ -92,7 +92,7 @@
             "id": 12,
             "title": "Bracelet Spirit",
             "price": "38",
-            "img": "product_6",
+            "img": "https://i.ibb.co/grNdBNj/product-6.png",
             "sex": "women",
             "sale": "10"
         },
@@ -100,7 +100,7 @@
             "id": 13,
             "title": "Classic Bracelet Mamba",
             "price": "36",
-            "img": "product_1",
+            "img": "https://i.ibb.co/RhPw5dq/product-1.png",
             "sex": "women",
             "sale": "10"
         },
@@ -108,7 +108,7 @@
             "id": 14,
             "title": "Bracelet Temptation gray",
             "price": "32",
-            "img": "product_2",
+            "img": "https://i.ibb.co/yWfxz7d/product-2.png",
             "sex": "women",
             "sale": "10"
         },
@@ -116,7 +116,7 @@
             "id": 15,
             "title": "Bracelet Temptation gray",
             "price": "30",
-            "img": "product_3",
+            "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
             "sex": "women",
             "sale": "10"
         },
@@ -124,7 +124,7 @@
             "id": 16,
             "title": "Salmon leather bracelet",
             "price": "30",
-            "img": "product_4",
+            "img": "https://i.ibb.co/RhPw5dq/product-1.png",
             "sex": "women",
             "sale": "10"
         },
@@ -132,7 +132,7 @@
             "id": 17,
             "title": "Bracelet Talisman",
             "price": "30",
-            "img": "product_5",
+            "img": "https://i.ibb.co/THh05X6/product-5.png",
             "sex": "women",
             "sale": "10"
         },
@@ -140,7 +140,7 @@
             "id": 18,
             "title": "Bracelet Spirit",
             "price": "38",
-            "img": "product_6",
+            "img": "https://i.ibb.co/grNdBNj/product-6.png",
             "sex": "women",
             "sale": "10"
         },
@@ -148,7 +148,7 @@
             "id": 19,
             "title": "Classic Bracelet Mamba",
             "price": "36",
-            "img": "product_1",
+            "img": "https://i.ibb.co/RhPw5dq/product-1.png",
             "sex": "women",
             "sale": "10"
         },
@@ -156,7 +156,7 @@
             "id": 20,
             "title": "Bracelet Temptation gray",
             "price": "32",
-            "img": "product_2",
+            "img": "https://i.ibb.co/yWfxz7d/product-2.png",
             "sex": "women",
             "sale": "10"
         },
@@ -164,7 +164,7 @@
             "id": 21,
             "title": "Bracelet Temptation gray",
             "price": "30",
-            "img": "product_3",
+            "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
             "sex": "women",
             "sale": "10"
         },
@@ -172,7 +172,7 @@
             "id": 22,
             "title": "Salmon leather bracelet",
             "price": "30",
-            "img": "product_4",
+            "img": "https://i.ibb.co/RhPw5dq/product-1.png",
             "sex": "women",
             "sale": "10"
         },
@@ -180,7 +180,7 @@
             "id": 23,
             "title": "Bracelet Talisman",
             "price": "30",
-            "img": "product_5",
+            "img": "https://i.ibb.co/THh05X6/product-5.png",
             "sex": "women",
             "sale": "10"
         },
@@ -188,7 +188,7 @@
             "id": 24,
             "title": "Bracelet Spirit",
             "price": "38",
-            "img": "product_6",
+            "img": "https://i.ibb.co/grNdBNj/product-6.png",
             "sex": "women",
             "sale": "10"
         }
