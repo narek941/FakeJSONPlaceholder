@@ -11,7 +11,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 2,
@@ -24,7 +29,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 3,
@@ -37,7 +47,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 4,
@@ -50,7 +65,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 5,
@@ -63,7 +83,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 6,
@@ -76,7 +101,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 7,
@@ -89,7 +119,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 8,
@@ -102,7 +137,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 9,
@@ -115,7 +155,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 10,
@@ -128,7 +173,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 11,
@@ -141,7 +191,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 12,
@@ -154,7 +209,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 13,
@@ -167,7 +227,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 14,
@@ -180,7 +245,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 15,
@@ -193,7 +263,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 16,
@@ -206,7 +281,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 17,
@@ -219,7 +299,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 18,
@@ -232,7 +317,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 19,
@@ -245,7 +335,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 20,
@@ -258,7 +353,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 21,
@@ -271,7 +371,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 22,
@@ -284,7 +389,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 23,
@@ -297,7 +407,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 24,
@@ -310,7 +425,12 @@
             "total": "24",
             "material": "Leather",
             "Color": "White",
-            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww"
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         }
     ],
     "carousel": [
