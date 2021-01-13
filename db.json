@@ -18,168 +18,87 @@
                     "xxl"
                 ]
             },
-            {
-                "id": 2,
-                "title": "Bracelet Temptation gray",
-                "price": "32",
-                "img": "https://i.ibb.co/yWfxz7d/product-2.png",
-                "sex": "women",
-                "sale": "10",
-                "category": "bracelet",
-                "total": "24",
-                "material": "Leather",
-                "Color": "White",
-                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-                "size": [
-                    "s",
-                    "xl",
-                    "xxl"
-                ]
-            },
-            {
-                "id": 3,
-                "title": "Bracelet Temptation gray",
-                "price": "30",
-                "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
-                "sex": "women",
-                "sale": "10",
-                "category": "bracelet",
-                "total": "24",
-                "material": "Leather",
-                "Color": "White",
-                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-                "size": [
-                    "s",
-                    "xl",
-                    "xxl"
-                ]
-            },
-            {
-                "id": 4,
-                "title": "Salmon leather bracelet",
-                "price": "30",
-                "img": "https://i.ibb.co/JjdcPfg/product-4.png",
-                "sex": "women",
-                "sale": "10",
-                "category": "bracelet",
-                "total": "24",
-                "material": "Leather",
-                "Color": "White",
-                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-                "size": [
-                    "s",
-                    "xl",
-                    "xxl"
-                ]
-            },
-            {
-                "id": 5,
-                "title": "Bracelet Talisman",
-                "price": "30",
-                "img": "https://i.ibb.co/THh05X6/product-5.png",
-                "sex": "women",
-                "sale": "10",
-                "category": "bracelet",
-                "total": "24",
-                "material": "Leather",
-                "Color": "White",
-                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-                "size": [
-                    "s",
-                    "xl",
-                    "xxl"
-                ]
-            },
-            {
-                "id": 6,
-                "title": "Bracelet Spirit",
-                "price": "38",
-                "img": "https://i.ibb.co/grNdBNj/product-6.png",
-                "sex": "women",
-                "sale": "10",
-                "category": "bracelet",
-                "total": "24",
-                "material": "Leather",
-                "Color": "White",
-                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-                "size": [
-                    "s",
-                    "xl",
-                    "xxl"
-                ]
-            },
-            {
-                "id": 7,
-                "title": "Classic Bracelet Mamba",
-                "price": "36",
-                "img": "https://i.ibb.co/RhPw5dq/product-1.png",
-                "sex": "women",
-                "sale": "10",
-                "category": "bracelet",
-                "total": "24",
-                "material": "Leather",
-                "Color": "White",
-                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-                "size": [
-                    "s",
-                    "xl",
-                    "xxl"
-                ]
-            },
-            {
-                "id": 8,
-                "title": "Bracelet Temptation gray",
-                "price": "32",
-                "img": "https://i.ibb.co/yWfxz7d/product-2.png",
-                "sex": "women",
-                "sale": "10",
-                "category": "bracelet",
-                "total": "24",
-                "material": "Leather",
-                "Color": "White",
-                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-                "size": [
-                    "s",
-                    "xl",
-                    "xxl"
-                ]
-            },
-            {
-                "id": 9,
-                "title": "Bracelet Temptation gray",
-                "price": "30",
-                "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
-                "sex": "women",
-                "sale": "10",
-                "category": "bracelet",
-                "total": "24",
-                "material": "Leather",
-                "Color": "White",
-                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-                "size": [
-                    "s",
-                    "xl",
-                    "xxl"
-                ]
-            },
-            {
-                "id": 10,
-                "title": "Salmon leather bracelet",
-                "price": "30",
-                "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
-                "sex": "women",
-                "sale": "10",
-                "category": "bracelet",
-                "total": "24",
-                "material": "Leather",
-                "Color": "White",
-                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-                "size": [
-                    "s",
-                    "xl",
-                    "xxl"
-                ]
-            },
+        {
+            "id": 2,
+            "title": "Bracelet Temptation gray",
+            "price": "32",
+            "img": "https://i.ibb.co/yWfxz7d/product-2.png",
+            "sex": "women",
+            "sale": "10",
+            "total": "24"
+        },
+        {
+            "id": 3,
+            "title": "Bracelet Temptation gray",
+            "price": "30",
+            "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
+            "sex": "women",
+            "sale": "10",
+            "total": "24"
+        },
+        {
+            "id": 4,
+            "title": "Salmon leather bracelet",
+            "price": "30",
+            "img": "https://i.ibb.co/JjdcPfg/product-4.png",
+            "sex": "women",
+            "sale": "10",
+            "total": "24"
+        },
+        {
+            "id": 5,
+            "title": "Bracelet Talisman",
+            "price": "30",
+            "img": "https://i.ibb.co/THh05X6/product-5.png",
+            "sex": "women",
+            "sale": "10",
+            "total": "24"
+        },
+        {
+            "id": 6,
+            "title": "Bracelet Spirit",
+            "price": "38",
+            "img": "https://i.ibb.co/grNdBNj/product-6.png",
+            "sex": "women",
+            "sale": "10",
+            "total": "24"
+        },
+        {
+            "id": 7,
+            "title": "Classic Bracelet Mamba",
+            "price": "36",
+            "img": "https://i.ibb.co/RhPw5dq/product-1.png",
+            "sex": "women",
+            "sale": "10",
+            "total": "24"
+        },
+        {
+            "id": 8,
+            "title": "Bracelet Temptation gray",
+            "price": "32",
+            "img": "https://i.ibb.co/yWfxz7d/product-2.png",
+            "sex": "women",
+            "sale": "10",
+            "total": "24"
+        },
+        {
+            "id": 9,
+            "title": "Bracelet Temptation gray",
+            "price": "30",
+            "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
+            "sex": "women",
+            "sale": "10",
+            "total": "24"
+        },
+        {
+            "id": 10,
+            "title": "Salmon leather bracelet",
+            "price": "30",
+            "img": "https://i.ibb.co/Ss2SZyH/product-3.png",
+            "sex": "women",
+            "sale": "10",
+            "total": "24"
+        },
         {
             "id": 11,
             "title": "Bracelet Talisman",
@@ -323,5 +242,39 @@
             "description": "Noosa Amsterdam Accessories that you create yourself",
             "img": "third"
           }
+        ],
+        "categories": [
+            {
+                "id": 0,
+                "name": "Women"
+            },
+            {
+                "id": 1,
+                "name": "Men"
+            },
+            {
+                "id": 2,
+                "name": "Braclets"
+            },
+            {
+                "id": 3,
+                "name": "Buttons"
+            },
+            {
+                "id": 4,
+                "name": "Belts"
+            },
+            {
+                "id": 5,
+                "name": "Bags"
+            },
+            {
+                "id": 6,
+                "name": "Collections"
+            },
+            {
+                "id": 7,
+                "name": "Sale"
+            }
         ]
 }
