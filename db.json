@@ -1,15 +1,23 @@
 {
     "product": [
         {
-            "id": 1,
-            "title": "Classic Bracelet Mamba",
-            "price": "36",
-            "img": "https://i.ibb.co/RhPw5dq/product-1.png",
-            "sex": "women",
-            "sale": "10",
-            "total": "24"
-            
-        },
+                "id": 1,
+                "title": "Classic Bracelet Mamba",
+                "price": "36",
+                "img": "https://i.ibb.co/RhPw5dq/product-1.png",
+                "sex": "women",
+                "sale": "10",
+                "category": "bracelet",
+                "total": "24",
+                "material": "Leather",
+                "Color": "White",
+                "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+                "size": [
+                    "s",
+                    "xl",
+                    "xxl"
+                ]
+            },
         {
             "id": 2,
             "title": "Bracelet Temptation gray",
