@@ -8,13 +8,13 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [
-                "s", 
-                "xl", 
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
                 "xxl"
             ]
         },
@@ -26,11 +26,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 3,
@@ -40,11 +44,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 4,
@@ -54,11 +62,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 5,
@@ -68,11 +80,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 6,
@@ -82,11 +98,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 7,
@@ -96,11 +116,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 8,
@@ -110,11 +134,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 9,
@@ -124,11 +152,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 10,
@@ -138,11 +170,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 11,
@@ -152,11 +188,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 12,
@@ -166,11 +206,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 13,
@@ -180,11 +224,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 14,
@@ -194,11 +242,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 15,
@@ -208,11 +260,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 16,
@@ -222,11 +278,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 17,
@@ -236,11 +296,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 18,
@@ -250,11 +314,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 19,
@@ -264,11 +332,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 20,
@@ -278,11 +350,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 21,
@@ -292,11 +368,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 22,
@@ -306,11 +386,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 23,
@@ -320,11 +404,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         },
         {
             "id": 24,
@@ -334,11 +422,15 @@
             "sex": "women",
             "sale": "10",
             "category": "bracelet",
-             "total": "24",
-            "Material": "Leather",
-             "Color": "White",
-             "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
-             "size": [ "s", "xl", "xxl"]
+            "total": "24",
+            "material": "Leather",
+            "Color": "White",
+            "description": "Lorem ipsumssdddddddddddddddds   dsd  daadd aeww",
+            "size": [
+                "s",
+                "xl",
+                "xxl"
+            ]
         }
     ],
     "carousel": [
