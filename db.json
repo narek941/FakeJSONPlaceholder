@@ -242,39 +242,5 @@
             "description": "Noosa Amsterdam Accessories that you create yourself",
             "img": "third"
           }
-        ],
-        "categories": [
-            {
-                "id": 0,
-                "name": "Women"
-            },
-            {
-                "id": 1,
-                "name": "Men"
-            },
-            {
-                "id": 2,
-                "name": "Braclets"
-            },
-            {
-                "id": 3,
-                "name": "Buttons"
-            },
-            {
-                "id": 4,
-                "name": "Belts"
-            },
-            {
-                "id": 5,
-                "name": "Bags"
-            },
-            {
-                "id": 6,
-                "name": "Collections"
-            },
-            {
-                "id": 7,
-                "name": "Sale"
-            }
         ]
 }
